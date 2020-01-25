@@ -1,0 +1,16 @@
+c:\users\a-pc\documents\visual studio 2010\Projects\sadra8vazir1\sadra8vazir1\obj\x86\Debug\sadra8vazir1.Form1.resources
+c:\users\a-pc\documents\visual studio 2010\Projects\sadra8vazir1\sadra8vazir1\obj\x86\Debug\sadra8vazir1.Properties.Resources.resources
+c:\users\a-pc\documents\visual studio 2010\Projects\sadra8vazir1\sadra8vazir1\obj\x86\Debug\sadra8vazir1.csproj.GenerateResource.Cache
+c:\users\a-pc\documents\visual studio 2010\Projects\sadra8vazir1\sadra8vazir1\bin\Debug\sadra8vazir1.exe
+c:\users\a-pc\documents\visual studio 2010\Projects\sadra8vazir1\sadra8vazir1\bin\Debug\sadra8vazir1.pdb
+c:\users\a-pc\documents\visual studio 2010\Projects\sadra8vazir1\sadra8vazir1\obj\x86\Debug\sadra8vazir1.exe
+c:\users\a-pc\documents\visual studio 2010\Projects\sadra8vazir1\sadra8vazir1\obj\x86\Debug\sadra8vazir1.pdb
+C:\Users\A-PC\Documents\Visual Studio 2010\Projects\sadra8vazir1\sadra8vazir1\obj\x86\Debug\sadra8vazir1.csprojResolveAssemblyReference.cache
+D:\Projects Courses\AI\sadra8vazir1 (by prof)\sadra8vazir1\obj\x86\Debug\sadra8vazir1.exe
+D:\Projects Courses\AI\sadra8vazir1 (by prof)\sadra8vazir1\obj\x86\Debug\sadra8vazir1.pdb
+D:\Projects Courses\AI\sadra8vazir1 (by prof)\sadra8vazir1\bin\Debug\sadra8vazir1.exe
+D:\Projects Courses\AI\sadra8vazir1 (by prof)\sadra8vazir1\bin\Debug\sadra8vazir1.pdb
+D:\Projects Courses\AI\sadra8vazir1 (by prof)\sadra8vazir1\obj\x86\Debug\sadra8vazir1.csprojResolveAssemblyReference.cache
+D:\Projects Courses\AI\sadra8vazir1 (by prof)\sadra8vazir1\obj\x86\Debug\sadra8vazir1.Form1.resources
+D:\Projects Courses\AI\sadra8vazir1 (by prof)\sadra8vazir1\obj\x86\Debug\sadra8vazir1.Properties.Resources.resources
+D:\Projects Courses\AI\sadra8vazir1 (by prof)\sadra8vazir1\obj\x86\Debug\sadra8vazir1.csproj.GenerateResource.Cache
